@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "go",
+            "name": "Go configuration",
+            "goExecPath": "~/Documents/MyProject/store-gin/main.go",
+            "buildParams": [],
+        },
+        
+    ]
+}
